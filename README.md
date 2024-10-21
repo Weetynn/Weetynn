@@ -24,6 +24,9 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+# 🗃️ Portfolio
+Feel free to browse my portfolio with all my projects [here](). 
+
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=weetynn&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-profile-trophy.vercel.app/?username=weetynn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
